@@ -1,4 +1,4 @@
-name := "printCluster"
+name := "HazelcastCluster"
 
 version := "1.0"
 
